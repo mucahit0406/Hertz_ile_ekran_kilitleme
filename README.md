@@ -1,0 +1,1 @@
+Telefonunuza Tone generatör indirerek belirli seviyede hertz gönderebilirsiniz. Kodda 1248 Hz gönderilerek bilgisayarın ekranı kilitlenmiştir. Bunu insanların duyamayacağı bir Hz yaparak bilgisayarlarını ruhları duymadan devamlı kitleyerek güzel bir şaka yapılabilir.
